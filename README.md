@@ -51,6 +51,7 @@ The project structure is organized as follows:
   - App.js             // Main React component that integrates Canvas and GUI
   - index.js           // Entry point for the React application
 /index.html            // Main HTML file to load the project```
+
 ## 🎉 Contributing
 Contributions are welcome! If you find a bug or have a suggestion for a new feature, feel free to open an issue or submit a pull request.
 
