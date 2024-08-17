@@ -12,7 +12,7 @@ To get started with Tyshaun's Physics Engine, follow these steps:
 
 Clone the Repository:
 ```
-git clone https://github.com/your-username/tyshauns-physics-engine.git
+git clone https://github.com/Tyshaun-l/Tyshaun-s-Physics-Engine.git
 cd tyshauns-physics-engine
 ```
 Install Dependencies:
