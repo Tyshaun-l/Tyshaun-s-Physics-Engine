@@ -6,22 +6,23 @@ Shape Selection: Choose from a variety of shapes, including circles, rectangles,
 Physics Types: Apply five different physics effects, such as bounce, friction, and gravity.
 Color Picker: Easily change the color of shapes using an integrated color picker with RGB and HEX support.
 React Integration: Seamlessly interacts with the ReactJS framework for smooth, responsive UI.
+
 ## 🛠️ Installation
 To get started with Tyshaun's Physics Engine, follow these steps:
 
 Clone the Repository:
-
-bash
-```git clone https://github.com/your-username/tyshauns-physics-engine.git
-cd tyshauns-physics-engine```
+```
+git clone https://github.com/your-username/tyshauns-physics-engine.git
+cd tyshauns-physics-engine
+```
 Install Dependencies:
-
-bash
-```npm install```
+```
+npm install
+```
 Run the Project
-
-bash
-```npm start```
+```
+npm start
+```
 This will start a local development server and open the project in your default browser.
 
 ## 📄 Usage
@@ -31,16 +32,17 @@ Select a Shape: Use the dropdown to choose a shape.
 Add the Shape: Click the "Add Shape" button to spawn the selected shape onto the canvas.
 Apply Physics: Choose a physics type from the dropdown and apply it to the most recently added shape.
 Change Color: Use the color picker to change the color of the shape.
-🧩 Dependencies
+
+## 🧩 Dependencies
 Tyshaun's Physics Engine is built on the following technologies:
 
 ReactJS - A JavaScript library for building user interfaces.
 PixiJS - A fast, lightweight 2D rendering engine.
 MatterJS - A 2D rigid body physics engine.
 React-Color - A color picker component for React.
+
 ## 📂 File Structure
 The project structure is organized as follows:
-
 
 ```/src
   /components
@@ -50,7 +52,8 @@ The project structure is organized as follows:
     - PhysicsEngine.js // Contains the core logic for the physics engine
   - App.js             // Main React component that integrates Canvas and GUI
   - index.js           // Entry point for the React application
-/index.html            // Main HTML file to load the project```
+/index.html            // Main HTML file to load the project
+```
 
 ## 🎉 Contributing
 Contributions are welcome! If you find a bug or have a suggestion for a new feature, feel free to open an issue or submit a pull request.
