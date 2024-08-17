@@ -1,0 +1,13 @@
+.app {
+  display: flex;
+}
+
+.gui {
+  padding: 20px;
+  background-color: #f0f0f0;
+  width: 300px;
+}
+
+.canvas-container {
+  flex-grow: 1;
+}
