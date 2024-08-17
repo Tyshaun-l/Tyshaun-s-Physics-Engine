@@ -8,8 +8,7 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "^5.0.0",
-    "pixi.js": "8.3.3",
-    "@sgty/pixil": "1.1.6",
+    "pixi.js": "8.3.3", // Keep the latest version
     "matter-js": "0.20.0",
     "react-color": "2.19.3"
   },
